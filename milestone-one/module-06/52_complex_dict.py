@@ -7,7 +7,7 @@ user_1 = {
 }
 
 user_2 = {
-    'username': 'zannat',
+    'username': 'Rahman',
     'password': 'g56gfde',
     'role': 'contributor'
 }
@@ -18,7 +18,7 @@ users = [{
     'password': '12345',
     'role': 'admin'
 }, {
-    'username': 'zannat',
+    'username': 'Rahman',
     'password': 'g56gfde',
     'role': 'contributor'
 }

@@ -15,7 +15,7 @@
 
 # Sadik is a developer in a tech company. He is very loyal man
 
-# Zannat is a designer in a fashion company. She is very loyal woman
+# Riya is a designer in a fashion company. She is very loyal woman
 
 name = input('Enter Name: ')
 gender = input('Enter Gender (M/F): ')

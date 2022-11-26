@@ -1,6 +1,6 @@
 
 
-class_seven = ['Sadik', 'Tomme', 'Rahman', 'Zannat']
+class_seven = ['Sadik', 'Rahat', 'Rahman', 'Zahid']
 
 
 # print(class_seven[3])
